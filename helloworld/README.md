@@ -1,6 +1,6 @@
 # [The Brownian Wanderlust of Things](http://xrds.acm.org)
 
-## Marinka Zitnik, Spring 2015
+## Marinka Zitnik, Spring 2016
 
 <figure><img src='brownian.png'><figcaption>Left. A typical plot showing 20 realizations of one-dimensional Brownian motion. Right. A typical plot showing Brownian motion in two dimensions.</figcaption></figure>
 
